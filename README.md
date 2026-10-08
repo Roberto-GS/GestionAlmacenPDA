@@ -12,6 +12,11 @@ FUNCIONALIDADES
 - Gestión de Categorías y Ubicaciones del almacén
 - Bajas Lógicas: Los productos dados de baja no apareceran en el inventario pero conservaran su historial, y se pueden reactivar
 
+<img width="500" height="800" alt="Screenshot_2026-10-08-12-51-58-067_com example gestionalmacenpda-edit" src="https://github.com/user-attachments/assets/c8e20d5b-a389-46b4-8952-f8a83c35f836" />
+
+<img width="500" height="800" alt="Screenshot_2026-10-08-12-52-18-809_com example gestionalmacenpda-edit" src="https://github.com/user-attachments/assets/0f853116-c4f8-4508-8677-dabf9c796e53" />
+
+
 ARQUITECTURA
 Arquitectura por capas:
 - data: DAOs de Room y repositorios
